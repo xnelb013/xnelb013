@@ -35,7 +35,8 @@
 
 <h2>🙇‍♂️ My Git</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnelb013&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=xnelb013&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=xnelb013&show_icons=true"><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnelb013&count_private=true&show_icons=true&theme=radical)
 </div>
 
 <!--
