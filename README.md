@@ -1,5 +1,5 @@
 ### 프론트엔드 꿈나무 최은석입니다.css
-
+<div align="center">
 <h1>My blog</h1>
 📫<a href="https://velog.io/@xnelb013">블로그</a>
 
@@ -31,6 +31,10 @@
 <h3>Cloud Service</h3>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+</div>
+
+
+
 </div>
 
 <!--
