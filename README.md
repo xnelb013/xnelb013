@@ -1,4 +1,4 @@
-### 프론트엔드 꿈나무 최은석입니다.css
+### 프론트엔드 꿈나무 최은석입니다
 <div>
 <h2 stlye="color:blue">📫 My blog</h2>
 <a href="https://velog.io/@xnelb013">블로그</a>
