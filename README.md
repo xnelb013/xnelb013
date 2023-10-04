@@ -3,9 +3,9 @@
 <h1>My blog</h1>
 📫<a href="https://velog.io/@xnelb013">블로그</a>
 
-<h3>Programming Languages</h3>
 <h1>Skills</h1>
 <div style="display:flex">
+<h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </div>
