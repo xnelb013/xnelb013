@@ -4,7 +4,7 @@
 📫<a href="https://velog.io/@xnelb013">블로그</a>
 
 <h1>Skills</h1>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=로고이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 
 <!--
