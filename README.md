@@ -1,9 +1,9 @@
 ### 프론트엔드 꿈나무 최은석입니다.css
 <div>
-<h1 stlye="color:blue">📫 My blog</h1>
+<h2 stlye="color:blue">📫 My blog</h2>
 <a href="https://velog.io/@xnelb013">블로그</a>
 
-<h3>⚡ Skills</h3>
+<h2>⚡ Skills</h2>
 <div style="display:flex">
 <h4>Programming Languages</h4>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
 </div>
 
-<h3>🙇‍♂️ My Git</h3>
+<h2>🙇‍♂️ My Git</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnelb013&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=xnelb013&show_icons=true">
 </div>
