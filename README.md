@@ -1,6 +1,6 @@
 ### 프론트엔드 꿈나무 최은석입니다.css
 <div>
-<h1>My blog</h1>
+<h1 stlye="color:blue">My blog</h1>
 📫<a href="https://velog.io/@xnelb013">블로그</a>
 
 <h1>Skills</h1>
