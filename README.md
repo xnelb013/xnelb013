@@ -1,9 +1,9 @@
 ### 프론트엔드 꿈나무 최은석입니다.css
 <div>
-<h1 stlye="color:blue">My blog</h1>
-📫<a href="https://velog.io/@xnelb013">블로그</a>
+📫<h1 stlye="color:blue">My blog</h1>
+<a href="https://velog.io/@xnelb013">블로그</a>
 
-<h1>Skills</h1>
+⚡<h1>Skills</h1>
 <div style="display:flex">
 <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
